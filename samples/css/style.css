@@ -1,0 +1,30 @@
+body {
+  background: beige;
+  background-image: url('bg.jpg');
+  background-size: cover;
+  background-repeat: center;
+  background-repeat: no-repeat;
+
+}
+
+
+a {
+  color: red;
+  text-decoration: none;
+}
+a: hover {
+  color: black;
+  font-weight: bold;
+}
+p a {
+  color:yellow
+}
+p {
+  font-family:  sans-serif;
+}
+ul {
+  list-style-type:  square;
+}
+ol {
+  list-style-type: lower-alpha;
+}

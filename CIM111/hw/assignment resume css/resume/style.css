@@ -1,0 +1,31 @@
+
+
+#maintitle{
+  font-family: 'Abril Fatface', cursive;
+}
+#title{
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Asap', sans-serif;
+}
+a{
+  color:pink;
+  text-decoration: none;
+}
+a:hover{
+  font-weight: bold;
+}
+.education{
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Asap', sans-serif;
+font-family: 'Source Code Pro', monospace;
+}
+#exchange{
+  color: green;
+  font-size: 18px
+}
+#experience{
+  color: red
+}
+.address{
+  border-left-width: inherit;
+}
