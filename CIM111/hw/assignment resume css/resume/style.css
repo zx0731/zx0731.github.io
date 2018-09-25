@@ -26,6 +26,10 @@ font-family: 'Source Code Pro', monospace;
 #experience{
   color: red
 }
+#hobbies{
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Asap', sans-serif;
+}
 .address{
   border-left-width: inherit;
 }
