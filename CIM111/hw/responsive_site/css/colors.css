@@ -1,0 +1,19 @@
+body {
+  background: url('../images/008.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  color: #cc33ff
+}
+
+ul li{
+  list-style-type: none;
+  display: inline;
+}
+
+ul li a {
+  paddingg:28px;
+  background: url('../images/gradient.png')
+  background
+  }
