@@ -1,16 +1,23 @@
 body {
   margin: 0;
   padding: 0
+
+}
+h1{
+  letter-spacing: 3px;
+
 }
 header {
-    background-color: #F1F1F1;
+    background-color: #332900;
     text-align: center;
     padding: 20px;
+    color: white;
 }
 /* The navbar container */
 nav {
    overflow: hidden;
-   background-color: #333;
+   background-color: #e6b800;
+   color: black;
 }
 
 /* Nav links */
@@ -33,12 +40,12 @@ nav a:hover {
 
 /* Create three equal columns that align next to each other */
 .column2, .column3, .columnLeft, .columnRight {
-    background: #f1f1f1;
+    background: #ffffff;
     min-height: 200px;
 }
 
 footer {
   padding: 10px;
   color: white;
-  background: black
+  background: #cca300;
 }
