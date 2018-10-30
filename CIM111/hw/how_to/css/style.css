@@ -10,10 +10,10 @@ body {
   width: 30px;
   height: 30px;
   line-height: 30px;
-  font-size:24px; 
+  font-size:24px;
 }
 .steps > p {
-  text-align: center;
+  text-align: left;
 }
 p img {
   width:400px;
