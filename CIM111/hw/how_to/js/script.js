@@ -74,3 +74,7 @@ $('h2').on('mouseover', function(){
 $('h2').on('mouseleave', function(){
   $(this).css('color','black');
 });
+
+$('#end').on('click',function(){
+  location.reload();
+});
